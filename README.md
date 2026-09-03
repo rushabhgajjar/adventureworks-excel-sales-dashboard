@@ -1,8 +1,8 @@
 # AdventureWorks Sales & Business Performance Dashboard
 
-![](Time-Analysis.png)
+![](Screenshots/Time-Analysis.png)
 
-![](Detail-Dashboard.png)
+![](Screenshots/Detail-Dashboard.png)
 
 ## 📊 Project Overview
 
