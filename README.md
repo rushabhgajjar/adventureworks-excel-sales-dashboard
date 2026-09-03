@@ -1,5 +1,9 @@
 # AdventureWorks Sales & Business Performance Dashboard
 
+![](Time-Analysis.png)
+
+![](Detail-Dashboard.png)
+
 ## 📊 Project Overview
 
 This project is an interactive **Sales & Business Performance Dashboard developed in Microsoft Excel** using the AdventureWorks Internet Sales dataset.
